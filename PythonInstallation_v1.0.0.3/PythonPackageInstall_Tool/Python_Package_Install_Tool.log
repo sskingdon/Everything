@@ -1,0 +1,279 @@
+[2018/06/08 10:43:08]========== Start Python_Package_Install_Tool ==========
+[2018/06/08 10:43:08][I][Main] Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)]
+[2018/06/08 10:43:08][I][Main] Version = 1.0.0.3
+[2018/06/08 10:43:08][I][removeNotSupportPackage]pip-10.0.1-py2.py3-none-any.whl
+[2018/06/08 10:43:08][I][removeNotSupportPackage] Remove Showlist unsupported package success!
+[2018/06/08 10:43:08][I][removeNotSupportPackage] Remove Requirement unsupported package success!
+[2018/06/08 10:43:08][I][refinePackageShowList] CheckBox Name refine success!
+[2018/06/08 10:43:08]---------- INI ----------
+[2018/06/08 10:43:08][I][readINI] beautifulsoup4 = ['lxml', 'webencodings', 'six', 'html5lib']
+[2018/06/08 10:43:08][I][readINI] bs4 = ['lxml', 'webencodings', 'six', 'html5lib', 'beautifulsoup4']
+[2018/06/08 10:43:08][I][readINI] pandas = ['six', 'python_dateutil', 'pytz', 'numpy']
+[2018/06/08 10:43:08][I][readINI] paramiko = ['idna', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'pycparser', 'cffi', 'cryptography', 'bcrypt', 'PyNaCl', 'pyasn1']
+[2018/06/08 10:43:08][I][readINI] Pillow = ['olefile']
+[2018/06/08 10:43:08][I][readINI] psutil = ['enum34']
+[2018/06/08 10:43:08][I][readINI] PyVISA = ['enum34']
+[2018/06/08 10:43:08][I][readINI] requests = ['PySocks', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'idna', 'pycparser', 'cffi', 'cryptography', 'pyOpenSSL']
+[2018/06/08 10:43:08][I][readINI] serial = ['iso8601', 'PyYAML', 'future']
+[2018/06/08 10:43:08]---------- INI ----------
+[2018/06/08 10:43:08][I][createLTENoiseParserDlg] Create Windows.
+[2018/06/08 10:43:08][I][showPackageCheckBox] Checkbox successfully generate
+[2018/06/08 10:43:12][I][installPackage] PIP upgrade successfully!
+[2018/06/08 10:43:33][I][exitPackageInstallDlg] The windows had been Exit.
+[2018/06/08 10:43:33]=========== End Python_Package_Install_Tool ===========
+[2018/06/08 10:43:35]========== Start Python_Package_Install_Tool ==========
+[2018/06/08 10:43:35][I][Main] Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)]
+[2018/06/08 10:43:35][I][Main] Version = 1.0.0.3
+[2018/06/08 10:43:35][I][removeNotSupportPackage]pip-10.0.1-py2.py3-none-any.whl
+[2018/06/08 10:43:35][I][removeNotSupportPackage] Remove Showlist unsupported package success!
+[2018/06/08 10:43:35][I][removeNotSupportPackage] Remove Requirement unsupported package success!
+[2018/06/08 10:43:35][I][refinePackageShowList] CheckBox Name refine success!
+[2018/06/08 10:43:35]---------- INI ----------
+[2018/06/08 10:43:35][I][readINI] beautifulsoup4 = ['lxml', 'webencodings', 'six', 'html5lib']
+[2018/06/08 10:43:35][I][readINI] bs4 = ['lxml', 'webencodings', 'six', 'html5lib', 'beautifulsoup4']
+[2018/06/08 10:43:35][I][readINI] pandas = ['six', 'python_dateutil', 'pytz', 'numpy']
+[2018/06/08 10:43:35][I][readINI] paramiko = ['idna', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'pycparser', 'cffi', 'cryptography', 'bcrypt', 'PyNaCl', 'pyasn1']
+[2018/06/08 10:43:35][I][readINI] Pillow = ['olefile']
+[2018/06/08 10:43:35][I][readINI] psutil = ['enum34']
+[2018/06/08 10:43:35][I][readINI] PyVISA = ['enum34']
+[2018/06/08 10:43:35][I][readINI] requests = ['PySocks', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'idna', 'pycparser', 'cffi', 'cryptography', 'pyOpenSSL']
+[2018/06/08 10:43:35][I][readINI] serial = ['iso8601', 'PyYAML', 'future']
+[2018/06/08 10:43:35]---------- INI ----------
+[2018/06/08 10:43:36][I][createLTENoiseParserDlg] Create Windows.
+[2018/06/08 10:43:36][I][showPackageCheckBox] Checkbox successfully generate
+[2018/06/08 10:43:37][I][installPackage] PIP upgrade successfully!
+[2018/06/08 10:43:42][I][exitPackageInstallDlg] The windows had been Exit.
+[2018/06/08 10:43:42]=========== End Python_Package_Install_Tool ===========
+[2018/06/14 11:14:44]========== Start Python_Package_Install_Tool ==========
+[2018/06/14 11:14:44][I][Main] Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)]
+[2018/06/14 11:14:44][I][Main] Version = 1.0.0.3
+[2018/06/14 11:14:44][I][removeNotSupportPackage]pip-10.0.1-py2.py3-none-any.whl
+[2018/06/14 11:14:44][I][removeNotSupportPackage] Remove Showlist unsupported package success!
+[2018/06/14 11:14:44][I][removeNotSupportPackage] Remove Requirement unsupported package success!
+[2018/06/14 11:14:44][I][refinePackageShowList] CheckBox Name refine success!
+[2018/06/14 11:14:44]---------- INI ----------
+[2018/06/14 11:14:44][I][readINI] beautifulsoup4 = ['lxml', 'webencodings', 'six', 'html5lib']
+[2018/06/14 11:14:44][I][readINI] bs4 = ['lxml', 'webencodings', 'six', 'html5lib', 'beautifulsoup4']
+[2018/06/14 11:14:44][I][readINI] pandas = ['six', 'python_dateutil', 'pytz', 'numpy']
+[2018/06/14 11:14:44][I][readINI] paramiko = ['idna', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'pycparser', 'cffi', 'cryptography', 'bcrypt', 'PyNaCl', 'pyasn1']
+[2018/06/14 11:14:44][I][readINI] Pillow = ['olefile']
+[2018/06/14 11:14:44][I][readINI] psutil = ['enum34']
+[2018/06/14 11:14:44][I][readINI] PyVISA = ['enum34']
+[2018/06/14 11:14:44][I][readINI] requests = ['PySocks', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'idna', 'pycparser', 'cffi', 'cryptography', 'pyOpenSSL']
+[2018/06/14 11:14:44][I][readINI] serial = ['iso8601', 'PyYAML', 'future']
+[2018/06/14 11:14:44]---------- INI ----------
+[2018/06/14 11:14:44][I][createLTENoiseParserDlg] Create Windows.
+[2018/06/14 11:14:44][I][showPackageCheckBox] Checkbox successfully generate
+[2018/06/14 11:14:49][I][installPackage] PIP upgrade successfully!
+[2018/06/14 11:14:52][I][exitPackageInstallDlg] The windows had been Exit.
+[2018/06/14 11:14:52]=========== End Python_Package_Install_Tool ===========
+[2018/06/14 11:15:10]========== Start Python_Package_Install_Tool ==========
+[2018/06/14 11:15:10][I][Main] Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)]
+[2018/06/14 11:15:10][I][Main] Version = 1.0.0.3
+[2018/06/14 11:15:10][I][removeNotSupportPackage]pip-10.0.1-py2.py3-none-any.whl
+[2018/06/14 11:15:10][I][removeNotSupportPackage] Remove Showlist unsupported package success!
+[2018/06/14 11:15:10][I][removeNotSupportPackage] Remove Requirement unsupported package success!
+[2018/06/14 11:15:10][I][refinePackageShowList] CheckBox Name refine success!
+[2018/06/14 11:15:10]---------- INI ----------
+[2018/06/14 11:15:10][I][readINI] beautifulsoup4 = ['lxml', 'webencodings', 'six', 'html5lib']
+[2018/06/14 11:15:10][I][readINI] bs4 = ['lxml', 'webencodings', 'six', 'html5lib', 'beautifulsoup4']
+[2018/06/14 11:15:10][I][readINI] pandas = ['six', 'python_dateutil', 'pytz', 'numpy']
+[2018/06/14 11:15:10][I][readINI] paramiko = ['idna', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'pycparser', 'cffi', 'cryptography', 'bcrypt', 'PyNaCl', 'pyasn1']
+[2018/06/14 11:15:10][I][readINI] Pillow = ['olefile']
+[2018/06/14 11:15:10][I][readINI] psutil = ['enum34']
+[2018/06/14 11:15:10][I][readINI] PyVISA = ['enum34']
+[2018/06/14 11:15:10][I][readINI] requests = ['PySocks', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'idna', 'pycparser', 'cffi', 'cryptography', 'pyOpenSSL']
+[2018/06/14 11:15:10][I][readINI] serial = ['iso8601', 'PyYAML', 'future']
+[2018/06/14 11:15:10]---------- INI ----------
+[2018/06/14 11:15:10][I][createLTENoiseParserDlg] Create Windows.
+[2018/06/14 11:15:10][I][showPackageCheckBox] Checkbox successfully generate
+[2018/06/14 11:15:11][I][installPackage] PIP upgrade successfully!
+[2018/06/14 11:15:19][I][exitPackageInstallDlg] The windows had been Exit.
+[2018/06/14 11:15:19]=========== End Python_Package_Install_Tool ===========
+[2018/06/21 15:28:43]========== Start Python_Package_Install_Tool ==========
+[2018/06/21 15:28:43][I][Main] Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)]
+[2018/06/21 15:28:43][I][Main] Version = 1.0.0.3
+[2018/06/21 15:28:43][I][removeNotSupportPackage]pip-10.0.1-py2.py3-none-any.whl
+[2018/06/21 15:28:43][I][removeNotSupportPackage] Remove Showlist unsupported package success!
+[2018/06/21 15:28:43][I][removeNotSupportPackage] Remove Requirement unsupported package success!
+[2018/06/21 15:28:43][I][refinePackageShowList] CheckBox Name refine success!
+[2018/06/21 15:28:43]---------- INI ----------
+[2018/06/21 15:28:43][I][readINI] beautifulsoup4 = ['lxml', 'webencodings', 'six', 'html5lib']
+[2018/06/21 15:28:43][I][readINI] bs4 = ['lxml', 'webencodings', 'six', 'html5lib', 'beautifulsoup4']
+[2018/06/21 15:28:43][I][readINI] pandas = ['six', 'python_dateutil', 'pytz', 'numpy']
+[2018/06/21 15:28:43][I][readINI] paramiko = ['idna', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'pycparser', 'cffi', 'cryptography', 'bcrypt', 'PyNaCl', 'pyasn1']
+[2018/06/21 15:28:43][I][readINI] Pillow = ['olefile']
+[2018/06/21 15:28:43][I][readINI] psutil = ['enum34']
+[2018/06/21 15:28:43][I][readINI] PyVISA = ['enum34']
+[2018/06/21 15:28:43][I][readINI] requests = ['PySocks', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'idna', 'pycparser', 'cffi', 'cryptography', 'pyOpenSSL']
+[2018/06/21 15:28:43][I][readINI] serial = ['iso8601', 'PyYAML', 'future']
+[2018/06/21 15:28:43]---------- INI ----------
+[2018/06/21 15:28:43][I][createLTENoiseParserDlg] Create Windows.
+[2018/06/21 15:28:44][I][showPackageCheckBox] Checkbox successfully generate
+[2018/06/21 15:28:47][I][installPackage] PIP upgrade successfully!
+[2018/06/21 15:37:36][I][exitPackageInstallDlg] The windows had been Exit.
+[2018/06/21 15:37:36]=========== End Python_Package_Install_Tool ===========
+[2018/07/06 09:33:52]========== Start Python_Package_Install_Tool ==========
+[2018/07/06 09:33:52][I][Main] Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)]
+[2018/07/06 09:33:52][I][Main] Version = 1.0.0.3
+[2018/07/06 09:33:52][I][removeNotSupportPackage]pip-10.0.1-py2.py3-none-any.whl
+[2018/07/06 09:33:52][I][removeNotSupportPackage] Remove Showlist unsupported package success!
+[2018/07/06 09:33:52][I][removeNotSupportPackage] Remove Requirement unsupported package success!
+[2018/07/06 09:33:52][I][refinePackageShowList] CheckBox Name refine success!
+[2018/07/06 09:33:52]---------- INI ----------
+[2018/07/06 09:33:52][I][readINI] beautifulsoup4 = ['lxml', 'webencodings', 'six', 'html5lib']
+[2018/07/06 09:33:52][I][readINI] bs4 = ['lxml', 'webencodings', 'six', 'html5lib', 'beautifulsoup4']
+[2018/07/06 09:33:52][I][readINI] pandas = ['six', 'python_dateutil', 'pytz', 'numpy']
+[2018/07/06 09:33:52][I][readINI] paramiko = ['idna', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'pycparser', 'cffi', 'cryptography', 'bcrypt', 'PyNaCl', 'pyasn1']
+[2018/07/06 09:33:52][I][readINI] Pillow = ['olefile']
+[2018/07/06 09:33:52][I][readINI] psutil = ['enum34']
+[2018/07/06 09:33:52][I][readINI] PyVISA = ['enum34']
+[2018/07/06 09:33:52][I][readINI] requests = ['PySocks', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'idna', 'pycparser', 'cffi', 'cryptography', 'pyOpenSSL']
+[2018/07/06 09:33:52][I][readINI] serial = ['iso8601', 'PyYAML', 'future']
+[2018/07/06 09:33:52]---------- INI ----------
+[2018/07/06 09:33:53][I][createLTENoiseParserDlg] Create Windows.
+[2018/07/06 09:33:53][I][showPackageCheckBox] Checkbox successfully generate
+[2018/07/06 09:33:57][I][installPackage] PIP upgrade successfully!
+[2018/07/06 09:34:02][I][on_closing] The windows had been closed.
+[2018/07/06 09:34:02]=========== End Python_Package_Install_Tool ===========
+[2018/08/01 14:35:18]========== Start Python_Package_Install_Tool ==========
+[2018/08/01 14:35:18][I][Main] Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)]
+[2018/08/01 14:35:18][I][Main] Version = 1.0.0.3
+[2018/08/01 14:35:18][I][removeNotSupportPackage]pip-10.0.1-py2.py3-none-any.whl
+[2018/08/01 14:35:18][I][removeNotSupportPackage] Remove Showlist unsupported package success!
+[2018/08/01 14:35:18][I][removeNotSupportPackage] Remove Requirement unsupported package success!
+[2018/08/01 14:35:18][I][refinePackageShowList] CheckBox Name refine success!
+[2018/08/01 14:35:18]---------- INI ----------
+[2018/08/01 14:35:18][I][readINI] beautifulsoup4 = ['lxml', 'webencodings', 'six', 'html5lib']
+[2018/08/01 14:35:18][I][readINI] bs4 = ['lxml', 'webencodings', 'six', 'html5lib', 'beautifulsoup4']
+[2018/08/01 14:35:18][I][readINI] pandas = ['six', 'python_dateutil', 'pytz', 'numpy']
+[2018/08/01 14:35:18][I][readINI] paramiko = ['idna', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'pycparser', 'cffi', 'cryptography', 'bcrypt', 'PyNaCl', 'pyasn1']
+[2018/08/01 14:35:18][I][readINI] Pillow = ['olefile']
+[2018/08/01 14:35:18][I][readINI] psutil = ['enum34']
+[2018/08/01 14:35:18][I][readINI] PyVISA = ['enum34']
+[2018/08/01 14:35:18][I][readINI] requests = ['PySocks', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'idna', 'pycparser', 'cffi', 'cryptography', 'pyOpenSSL']
+[2018/08/01 14:35:18][I][readINI] serial = ['iso8601', 'PyYAML', 'future']
+[2018/08/01 14:35:18]---------- INI ----------
+[2018/08/01 14:35:19][I][createLTENoiseParserDlg] Create Windows.
+[2018/08/01 14:35:19][I][showPackageCheckBox] Checkbox successfully generate
+[2018/08/01 14:35:23][I][installPackage] PIP upgrade successfully!
+[2018/08/01 14:35:35][I][on_closing] The windows had been closed.
+[2018/08/01 14:35:35]=========== End Python_Package_Install_Tool ===========
+[2018/08/22 10:45:13]========== Start Python_Package_Install_Tool ==========
+[2018/08/22 10:45:13][I][Main] Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)]
+[2018/08/22 10:45:13][I][Main] Version = 1.0.0.3
+[2018/08/22 10:45:13][I][removeNotSupportPackage]pip-10.0.1-py2.py3-none-any.whl
+[2018/08/22 10:45:13][I][removeNotSupportPackage] Remove Showlist unsupported package success!
+[2018/08/22 10:45:13][I][removeNotSupportPackage] Remove Requirement unsupported package success!
+[2018/08/22 10:45:13][I][refinePackageShowList] CheckBox Name refine success!
+[2018/08/22 10:45:13]---------- INI ----------
+[2018/08/22 10:45:13][I][readINI] beautifulsoup4 = ['lxml', 'webencodings', 'six', 'html5lib']
+[2018/08/22 10:45:13][I][readINI] bs4 = ['lxml', 'webencodings', 'six', 'html5lib', 'beautifulsoup4']
+[2018/08/22 10:45:13][I][readINI] pandas = ['six', 'python_dateutil', 'pytz', 'numpy']
+[2018/08/22 10:45:13][I][readINI] paramiko = ['idna', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'pycparser', 'cffi', 'cryptography', 'bcrypt', 'PyNaCl', 'pyasn1']
+[2018/08/22 10:45:13][I][readINI] Pillow = ['olefile']
+[2018/08/22 10:45:13][I][readINI] psutil = ['enum34']
+[2018/08/22 10:45:13][I][readINI] PyVISA = ['enum34']
+[2018/08/22 10:45:13][I][readINI] requests = ['PySocks', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'idna', 'pycparser', 'cffi', 'cryptography', 'pyOpenSSL']
+[2018/08/22 10:45:13][I][readINI] serial = ['iso8601', 'PyYAML', 'future']
+[2018/08/22 10:45:13]---------- INI ----------
+[2018/08/22 10:45:13][I][createLTENoiseParserDlg] Create Windows.
+[2018/08/22 10:45:13][I][showPackageCheckBox] Checkbox successfully generate
+[2018/08/22 10:45:17][I][installPackage] PIP upgrade successfully!
+[2018/08/22 10:45:43][I][exitPackageInstallDlg] The windows had been Exit.
+[2018/08/22 10:45:43]=========== End Python_Package_Install_Tool ===========
+[2018/08/24 17:12:10]========== Start Python_Package_Install_Tool ==========
+[2018/08/24 17:12:10][I][Main] Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)]
+[2018/08/24 17:12:10][I][Main] Version = 1.0.0.3
+[2018/08/24 17:12:10][I][removeNotSupportPackage]pip-10.0.1-py2.py3-none-any.whl
+[2018/08/24 17:12:10][I][removeNotSupportPackage] Remove Showlist unsupported package success!
+[2018/08/24 17:12:10][I][removeNotSupportPackage] Remove Requirement unsupported package success!
+[2018/08/24 17:12:10][I][refinePackageShowList] CheckBox Name refine success!
+[2018/08/24 17:12:10]---------- INI ----------
+[2018/08/24 17:12:10][I][readINI] beautifulsoup4 = ['lxml', 'webencodings', 'six', 'html5lib']
+[2018/08/24 17:12:10][I][readINI] bs4 = ['lxml', 'webencodings', 'six', 'html5lib', 'beautifulsoup4']
+[2018/08/24 17:12:10][I][readINI] pandas = ['six', 'python_dateutil', 'pytz', 'numpy']
+[2018/08/24 17:12:10][I][readINI] paramiko = ['idna', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'pycparser', 'cffi', 'cryptography', 'bcrypt', 'PyNaCl', 'pyasn1']
+[2018/08/24 17:12:10][I][readINI] Pillow = ['olefile']
+[2018/08/24 17:12:10][I][readINI] psutil = ['enum34']
+[2018/08/24 17:12:10][I][readINI] PyVISA = ['enum34']
+[2018/08/24 17:12:10][I][readINI] requests = ['PySocks', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'idna', 'pycparser', 'cffi', 'cryptography', 'pyOpenSSL']
+[2018/08/24 17:12:10][I][readINI] serial = ['iso8601', 'PyYAML', 'future']
+[2018/08/24 17:12:10]---------- INI ----------
+[2018/08/24 17:12:10][I][createLTENoiseParserDlg] Create Windows.
+[2018/08/24 17:12:11][I][showPackageCheckBox] Checkbox successfully generate
+[2018/08/24 17:12:15][I][installPackage] PIP upgrade successfully!
+[2018/08/24 17:12:41][I][installPackage] Installing lxml-4.2.1-cp27-cp27m-win32.whl
+[2018/08/24 17:12:46][I][installPackage] Processing c:\users\sanchez_peng\desktop\pythoninstallation_v1.0.0.3\pythonpackageinstall_tool\pythonpackagerequirement\lxml-4.2.1-cp27-cp27m-win32.whl
+[2018/08/24 17:12:46][I][installPackage] Installing collected packages: lxml
+[2018/08/24 17:12:46][I][installPackage] Successfully installed lxml-4.2.1
+[2018/08/24 17:12:46][I][installPackage] lxml final state: Successfully Insalled!
+[2018/08/24 17:12:46][I][installPackage] Installing webencodings-0.5.1-py2.py3-none-any.whl
+[2018/08/24 17:12:48][W][installPackage] Requirement already satisfied: webencodings==0.5.1 from file:///C:/Users/Sanchez_Peng/Desktop/PythonInstallation_v1.0.0.3/PythonPackageInstall_Tool/PythonPackageRequirement/webencodings-0.5.1-py2.py3-none-any.whl in c:\python27\lib\site-packages (0.5.1)
+[2018/08/24 17:12:48][W][installPackage] webencodings final state: Already installed!
+[2018/08/24 17:12:48][I][installPackage] Installing six-1.11.0-py2.py3-none-any.whl
+[2018/08/24 17:12:50][W][installPackage] Requirement already satisfied: six==1.11.0 from file:///C:/Users/Sanchez_Peng/Desktop/PythonInstallation_v1.0.0.3/PythonPackageInstall_Tool/PythonPackageRequirement/six-1.11.0-py2.py3-none-any.whl in c:\python27\lib\site-packages (1.11.0)
+[2018/08/24 17:12:50][W][installPackage] six final state: Already installed!
+[2018/08/24 17:12:50][I][installPackage] Installing html5lib-1.0.1-py2.py3-none-any.whl
+[2018/08/24 17:12:52][W][installPackage] Requirement already satisfied: html5lib==1.0.1 from file:///C:/Users/Sanchez_Peng/Desktop/PythonInstallation_v1.0.0.3/PythonPackageInstall_Tool/PythonPackageRequirement/html5lib-1.0.1-py2.py3-none-any.whl in c:\python27\lib\site-packages (1.0.1)
+[2018/08/24 17:12:52][W][installPackage] Requirement already satisfied: webencodings in c:\python27\lib\site-packages (from html5lib==1.0.1) (0.5.1)
+[2018/08/24 17:12:52][W][installPackage] Requirement already satisfied: six>=1.9 in c:\python27\lib\site-packages (from html5lib==1.0.1) (1.11.0)
+[2018/08/24 17:12:52][W][installPackage] html5lib final state: Already installed!
+[2018/08/24 17:12:52][I][installPackage] Installing beautifulsoup4-4.6.0-py2-none-any.whl
+[2018/08/24 17:12:55][W][installPackage] Requirement already satisfied: beautifulsoup4==4.6.0 from file:///C:/Users/Sanchez_Peng/Desktop/PythonInstallation_v1.0.0.3/PythonPackageInstall_Tool/PythonPackageShowList/beautifulsoup4-4.6.0-py2-none-any.whl in c:\python27\lib\site-packages (4.6.0)
+[2018/08/24 17:12:55][W][installPackage] beautifulsoup4 final state: Already installed!
+[2018/08/24 17:12:55][I][installPackage] Installing lxml-4.2.1-cp27-cp27m-win32.whl
+[2018/08/24 17:12:57][W][installPackage] Requirement already satisfied: lxml==4.2.1 from file:///C:/Users/Sanchez_Peng/Desktop/PythonInstallation_v1.0.0.3/PythonPackageInstall_Tool/PythonPackageRequirement/lxml-4.2.1-cp27-cp27m-win32.whl in c:\python27\lib\site-packages (4.2.1)
+[2018/08/24 17:12:57][W][installPackage] lxml final state: Already installed!
+[2018/08/24 17:12:57][I][installPackage] Installing webencodings-0.5.1-py2.py3-none-any.whl
+[2018/08/24 17:12:59][W][installPackage] Requirement already satisfied: webencodings==0.5.1 from file:///C:/Users/Sanchez_Peng/Desktop/PythonInstallation_v1.0.0.3/PythonPackageInstall_Tool/PythonPackageRequirement/webencodings-0.5.1-py2.py3-none-any.whl in c:\python27\lib\site-packages (0.5.1)
+[2018/08/24 17:12:59][W][installPackage] webencodings final state: Already installed!
+[2018/08/24 17:12:59][I][installPackage] Installing six-1.11.0-py2.py3-none-any.whl
+[2018/08/24 17:13:01][I][exitPackageInstallDlg] The windows had been Exit.
+[2018/08/24 17:13:01]=========== End Python_Package_Install_Tool ===========
+[2018/08/24 17:13:01][W][installPackage] Requirement already satisfied: six==1.11.0 from file:///C:/Users/Sanchez_Peng/Desktop/PythonInstallation_v1.0.0.3/PythonPackageInstall_Tool/PythonPackageRequirement/six-1.11.0-py2.py3-none-any.whl in c:\python27\lib\site-packages (1.11.0)
+[2018/08/30 15:33:38]========== Start Python_Package_Install_Tool ==========
+[2018/08/30 15:33:38][I][Main] Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)]
+[2018/08/30 15:33:38][I][Main] Version = 1.0.0.3
+[2018/08/30 15:33:39][I][removeNotSupportPackage]pip-10.0.1-py2.py3-none-any.whl
+[2018/08/30 15:33:39][I][removeNotSupportPackage] Remove Showlist unsupported package success!
+[2018/08/30 15:33:39][I][removeNotSupportPackage] Remove Requirement unsupported package success!
+[2018/08/30 15:33:39][I][refinePackageShowList] CheckBox Name refine success!
+[2018/08/30 15:33:39]---------- INI ----------
+[2018/08/30 15:33:39][I][readINI] beautifulsoup4 = ['lxml', 'webencodings', 'six', 'html5lib']
+[2018/08/30 15:33:39][I][readINI] bs4 = ['lxml', 'webencodings', 'six', 'html5lib', 'beautifulsoup4']
+[2018/08/30 15:33:39][I][readINI] pandas = ['six', 'python_dateutil', 'pytz', 'numpy']
+[2018/08/30 15:33:39][I][readINI] paramiko = ['idna', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'pycparser', 'cffi', 'cryptography', 'bcrypt', 'PyNaCl', 'pyasn1']
+[2018/08/30 15:33:39][I][readINI] Pillow = ['olefile']
+[2018/08/30 15:33:39][I][readINI] psutil = ['enum34']
+[2018/08/30 15:33:39][I][readINI] PyVISA = ['enum34']
+[2018/08/30 15:33:39][I][readINI] requests = ['PySocks', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'idna', 'pycparser', 'cffi', 'cryptography', 'pyOpenSSL']
+[2018/08/30 15:33:39][I][readINI] serial = ['iso8601', 'PyYAML', 'future']
+[2018/08/30 15:33:39]---------- INI ----------
+[2018/08/30 15:33:39][I][createLTENoiseParserDlg] Create Windows.
+[2018/08/30 15:33:39][I][showPackageCheckBox] Checkbox successfully generate
+[2018/08/30 15:33:43][I][installPackage] PIP upgrade successfully!
+[2018/08/30 15:33:46][I][exitPackageInstallDlg] The windows had been Exit.
+[2018/08/30 15:33:46]=========== End Python_Package_Install_Tool ===========
+[2018/11/05 14:50:02]========== Start Python_Package_Install_Tool ==========
+[2018/11/05 14:50:02][I][Main] Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)]
+[2018/11/05 14:50:02][I][Main] Version = 1.0.0.3
+[2018/11/05 14:50:02][I][removeNotSupportPackage]pip-10.0.1-py2.py3-none-any.whl
+[2018/11/05 14:50:02][I][removeNotSupportPackage] Remove Showlist unsupported package success!
+[2018/11/05 14:50:02][I][removeNotSupportPackage] Remove Requirement unsupported package success!
+[2018/11/05 14:50:02][I][refinePackageShowList] CheckBox Name refine success!
+[2018/11/05 14:50:02]---------- INI ----------
+[2018/11/05 14:50:02][I][readINI] beautifulsoup4 = ['lxml', 'webencodings', 'six', 'html5lib']
+[2018/11/05 14:50:02][I][readINI] bs4 = ['lxml', 'webencodings', 'six', 'html5lib', 'beautifulsoup4']
+[2018/11/05 14:50:02][I][readINI] pandas = ['six', 'python_dateutil', 'pytz', 'numpy']
+[2018/11/05 14:50:02][I][readINI] paramiko = ['idna', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'pycparser', 'cffi', 'cryptography', 'bcrypt', 'PyNaCl', 'pyasn1']
+[2018/11/05 14:50:02][I][readINI] Pillow = ['olefile']
+[2018/11/05 14:50:02][I][readINI] psutil = ['enum34']
+[2018/11/05 14:50:02][I][readINI] PyVISA = ['enum34']
+[2018/11/05 14:50:02][I][readINI] requests = ['PySocks', 'asn1crypto', 'six', 'enum34', 'ipaddress', 'iso8601', 'pytz', 'idna', 'pycparser', 'cffi', 'cryptography', 'pyOpenSSL']
+[2018/11/05 14:50:02]---------- INI ----------
+[2018/11/05 14:50:02][I][createLTENoiseParserDlg] Create Windows.
+[2018/11/05 14:50:02][I][showPackageCheckBox] Checkbox successfully generate
+[2018/11/05 14:50:08][I][installPackage] PIP upgrade successfully!
+[2018/11/05 14:50:20][I][exitPackageInstallDlg] The windows had been Exit.
+[2018/11/05 14:50:21]=========== End Python_Package_Install_Tool ===========
